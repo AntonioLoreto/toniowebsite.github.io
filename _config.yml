@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Welcome to Antonio Loreto's website!
 description: Hi, this is my website! which is still in the making so.. stay tunned! :)
+email: loretoantoniovel@gmail.com
+twitter: @antonioloretoh
